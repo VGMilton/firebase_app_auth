@@ -1,0 +1,7 @@
+{
+  "name": "App-Auth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
